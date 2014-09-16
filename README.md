@@ -17,3 +17,4 @@ higgs-train-3.R: xgboost on 80-20 logged variables
 
 higss-pred.R: xgboost precition
 
+for the data, please see: https://www.kaggle.com/c/higgs-boson/data
